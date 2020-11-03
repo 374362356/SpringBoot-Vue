@@ -1,0 +1,7 @@
+CREATE TABLE vue_user(
+	id VARCHAR(10) PRIMARY KEY,
+	NAME VARCHAR(20),
+	age INT(3),
+	salary DOUBLE(7,2),
+	phone VARCHAR(10)
+);
